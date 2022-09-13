@@ -1,0 +1,13 @@
+#header h1 {
+    color: red;
+}
+
+#sidebar h3 {
+    color: red;
+    background-color: pink;
+}
+
+#sidebar p {
+    color: green;
+    background-color: yellow;
+}
